@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 -c \"from PIL import Image; img = Image.open\\('/Users/fusian/Desktop/家教/sian-0018.github.io/img/mibanner.png'\\); print\\(img.size\\)\")",
+      "Bash(sips -g pixelWidth -g pixelHeight /Users/fusian/Desktop/家教/sian-0018.github.io/img/mibanner.png)"
+    ]
+  }
+}

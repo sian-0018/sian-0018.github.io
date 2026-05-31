@@ -515,7 +515,7 @@ section {
   display: flex;
   gap: 38px;
   white-space: nowrap;
-  animation: mqrun 22s linear infinite;
+  animation: mqrun 12s linear infinite;
 }
 .mqitem {
   display: inline-flex;
